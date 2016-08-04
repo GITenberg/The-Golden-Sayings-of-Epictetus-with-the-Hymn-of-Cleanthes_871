@@ -1,0 +1,38 @@
+_repo: The-Golden-Sayings-of-Epictetus-with-the-Hymn-of-Cleanthes_871
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Crossley, Hastings
+    gutenberg_agent_id: '1153'
+    url: http://www.gutenberg.org/2009/agents/1153
+creator:
+  author:
+    agent_name: Epictetus
+    aliases:
+    - Epicteto
+    - Epitteto
+    - Epiktit
+    birthdate: 55
+    deathdate: 135
+    gutenberg_agent_id: '452'
+    url: http://www.gutenberg.org/2009/agents/452
+    wikipedia: http://en.wikipedia.org/wiki/Epictetus
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- Harvard Classics
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Philosophy'
+- !lcsh 'Stoics'
+- GITenberg
+title: The Golden Sayings of Epictetus, with the Hymn of Cleanthes
+url: http://www.gutenberg.org/ebooks/871
