@@ -1,10 +1,13 @@
 _repo: The-Golden-Sayings-of-Epictetus-with-the-Hymn-of-Cleanthes_871
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Crossley, Hastings
     gutenberg_agent_id: '1153'
     url: http://www.gutenberg.org/2009/agents/1153
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Epictetus
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/452
     wikipedia: http://en.wikipedia.org/wiki/Epictetus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/871#The-Golden-Sayings-of-Epictetus-with-the-Hymn-of-Cleanthes
 gutenberg_bookshelf:
 - Classical Antiquity
 - Harvard Classics
